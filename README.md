@@ -35,8 +35,8 @@ This project was completed by following a step-by-step tutorial to build a compr
 ---
 
 ## 📁 **Dataset and Scripts**  
-- **Data Source**: [Dataset from Kaggle](https://www.kaggle.com/datasets/ukvet...)  
-- **Spark & Synapse Scripts**: [GitHub Link](https://github.com/anshlamba03/Advent...)  
+- **Data Source**: [Dataset from Kaggle](https://www.kaggle.com/datasets/ukveteran/adventure-works)  
+- **Spark & Synapse Scripts**: [GitHub Link](https://github.com/williamlo90/Azure_End_To_End_Data_Engineering_Project1/tree/main/Scripts)  
 - **Azure Free Account Setup**: [Azure Portal](https://portal.azure.com/)  
 
 ---
