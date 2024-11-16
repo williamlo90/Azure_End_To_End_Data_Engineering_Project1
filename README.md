@@ -42,7 +42,7 @@ This project was completed by following a step-by-step tutorial to build a compr
 ---
 
 ## ✨ **Acknowledgment**  
-This project was inspired by [Ansh Lamba's Tutorial](https://www.youtube.com/watch?v=video_link). All credit for the tutorial content goes to the original creator. The project serves as a personal exercise in applying the knowledge gained from the tutorial.  
+This project was inspired by [Ansh Lamba's Tutorial](https://www.youtube.com/watch?v=0GTZ-12hYtU&list=LL&index=3). All credit for the tutorial content goes to the original creator. The project serves as a personal exercise in applying the knowledge gained from the tutorial.  
 
 ---
 
